@@ -45,3 +45,15 @@ s bohatou tradicí.
 
 Fotbal je *týmový sport*, který spojuje hráče
 i fanoušky.
+
+---
+
+## Shrnutí
+
+Tento projekt představuje fotbalový klub
+SK Sigma Olomouc a slouží k procvičení
+práce s GitHubem, Markdownem, obrázky,
+složkami a commity.
+
+Podrobnosti najdeš v souboru
+[Historie klubu](docs/historie.md).
