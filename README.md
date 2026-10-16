@@ -32,3 +32,8 @@ Informace o klubu najdeš na
 ## Fanoušci
 
 ![Fanoušci](images/sigma-fanousci.jpg)
+
+## Český fotbal
+
+Informace o českém fotbale najdeš
+na [webu FAČR](https://www.fotbal.cz/).
