@@ -16,3 +16,11 @@ každého fotbalového klubu.
 
 Informace o klubu najdeš na
 [oficiálním webu SK Sigma Olomouc](https://www.sigmafotbal.cz/).
+
+## Co patří k fotbalu?
+
+- Fotbalový tým
+- Trenéři
+- Fanoušci
+- Stadion
+- Fotbalové zápasy
