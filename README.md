@@ -33,7 +33,15 @@ Informace o klubu najdeš na
 
 ![Fanoušci](images/sigma-fanousci.jpg)
 
+Fanoušci podporují svůj tým během celé sezóny.
+
 ## Český fotbal
 
 Informace o českém fotbale najdeš
 na [webu FAČR](https://www.fotbal.cz/).
+
+Sigma Olomouc je **fotbalový klub**
+s bohatou tradicí.
+
+Fotbal je *týmový sport*, který spojuje hráče
+i fanoušky.
