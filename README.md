@@ -11,3 +11,8 @@ Domácí prostředí je důležitou součástí
 každého fotbalového klubu.
 
 ![Stadion Sigmy Olomouc](images/sigma-stadion.jpg)
+
+## Oficiální stránky
+
+Informace o klubu najdeš na
+[oficiálním webu SK Sigma Olomouc](https://www.sigmafotbal.cz/).
