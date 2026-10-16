@@ -24,3 +24,11 @@ Informace o klubu najdeš na
 - Fanoušci
 - Stadion
 - Fotbalové zápasy
+
+## Fotbalový tým
+
+![Fotbalový tým](images/sigma-tym.jpg)
+
+## Fanoušci
+
+![Fanoušci](images/sigma-fanousci.jpg)
